@@ -15,6 +15,7 @@ package-lock.json
 *.svg
 *.ico
 *.webp
+*.avif
 *.jpeg
 *.bmp
 *.tiff
